@@ -1,0 +1,16 @@
+h1{
+    color:gray;
+    background-color: orange;
+    font-size: 40px;
+    text-decoration:underline;
+    font-family:'Times New Roman';
+    text-align: center;
+}
+form{
+    color:gray;
+    background-color: orange;
+    font-size: 20px;
+    text-decoration:underline;
+    font-family:'Times New Roman';
+    text-align: center;
+}
